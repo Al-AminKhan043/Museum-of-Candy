@@ -2,6 +2,8 @@
 
 Museum of Candy is a vibrant and colorful webpage designed to showcase a playful candy-themed aesthetic. Built with HTML, CSS, Bootstrap, and a bit of JavaScript, this project is a fun, interactive webpage suitable for practice or inspiration.
 
+ https://al-aminkhan043.github.io/Museum-of-Candy/
+
 ## Project Overview
 
 - **Technologies Used**: HTML, CSS, Bootstrap, JavaScript
